@@ -1,7 +1,2 @@
-Hello World.
+Sync Me HTML and CSS
 
-Line Next
-
-Three
-
-Next
