@@ -1,7 +1,1 @@
-Hello World.
-
-Line Next
-
-Three
-
-Next
+We will run CSS and HTML Today.
