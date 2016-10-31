@@ -1,0 +1,20 @@
+/*
+This is my first CSS file
+*/
+
+body{
+	color: rgb(250, 25, 29);
+    font-size: 100px;
+}
+
+p{
+	color: blue;
+}   
+
+.baloney{
+	color: blue;
+}
+
+#black-bg{
+	background-color: black
+}

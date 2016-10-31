@@ -1,0 +1,44 @@
+h1 {
+  font-size: 23px;
+  color: #7FDBFF;
+  background-color: red;
+  height: 50px;
+  width: 300px;
+  padding:100px;
+  border:42px;
+  margin:100px 100px 100px 100px;
+}
+
+
+li {
+  color: #7FDBFF;
+  background-color: red;
+  height: 30px;
+  width: 300px;
+  padding:18px;
+  border:42px;
+  margin:20px 20px 20px 20px;
+}
+
+
+.redbox {
+  font-size: 23px;
+  color: #7FDBFF;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  padding:10px;
+  border:0px;
+  margin:0px 0px 10px 0px;
+}
+
+.greenbox {
+  font-size: 23px;
+  color: #7FDBFF;
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  padding:10px;
+  border:0px;
+  margin:0px 0px 10px 0px;
+}

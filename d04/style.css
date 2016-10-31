@@ -1,0 +1,47 @@
+.one{
+	background-color: rgb(222, 222, 222);
+	color: blue;
+	height: 250px;
+	width: 1250px;
+	border: 0px 10px 10px 0px;
+	padding: 15px 10px 10px 15px;
+	text-align: center;
+    margin: 0px 0px 10px 0px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.two{
+	background-color: rgb(255, 99, 71);
+	color: blue;
+	height: 45px;
+	width: 1200px;
+	border: 10px 10px 10px 0px;
+	padding: 0px 10px 10px 0px;
+	margin: 10px 0px 0px 0px;
+	text-align: center;
+    margin: 0px 0px 10px 0px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.three{
+	color: green;
+}
+
+.four{
+	color: yellow
+}
+
+.five{
+	background-color: black;
+	color: white;
+	height: 28px;
+	width: 1200px;
+	border: 0px 10px 10px 0px;
+	padding: 10px 10px 5px 0px;
+	text-align: center;
+    margin: 0px 0px 10px 0px;
+    margin-left:auto;
+    margin-right: auto;
+}
