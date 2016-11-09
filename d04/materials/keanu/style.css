@@ -21,21 +21,10 @@ li {
 }
 
 
-.redbox {
+div {
   font-size: 23px;
   color: #7FDBFF;
   background-color: red;
-  height: 100px;
-  width: 100px;
-  padding:10px;
-  border:0px;
-  margin:0px 0px 10px 0px;
-}
-
-.greenbox {
-  font-size: 23px;
-  color: #7FDBFF;
-  background-color: green;
   height: 100px;
   width: 100px;
   padding:10px;

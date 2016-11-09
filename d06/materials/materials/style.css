@@ -1,0 +1,11 @@
+H1{
+	color: green;
+}
+
+tr > td {
+	background-color: red;
+}
+
+li:first-child{
+	background-color: orange
+}

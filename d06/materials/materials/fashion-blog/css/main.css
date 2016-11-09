@@ -1,0 +1,70 @@
+.container{
+	margin: 0px 0px 0px 40px;
+}
+
+body {
+	color: #444444;
+    font: "Lato";
+    line-height: 1.5em;
+}
+
+.title {
+	color: #AA0000;
+	font-size: 50px;
+	margin: 12px  0px 12px 0px;
+
+}
+
+a { 
+	font-size: 26px;
+	color: #dddddd;
+	margin: 0px 5px 0px 0px;
+	padding: 0px 16px 0px 0px;
+} 
+
+a:hover {
+	color:#AA0000;
+}
+
+.Better-Dressed {
+	color: black;
+	margin: 30px 0px 30px 0px;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.dates {
+	color: #cccccc;
+	margin: 30px 0px 0px 0px;
+	font-size: 40px;
+}
+
+.copy {
+	color: #bbbbbb;
+
+}
+
+.art_title {
+	color: black;
+}
+
+p {
+	width: 900px;
+}
+
+.title_sep {
+	height: 45px;
+}
+
+.continues {
+	color: #AA0000;
+	font-weight: bold;
+	text-align: right;
+    border-bottom: solid thin #dddddd;
+    padding: 10px 0px 20px 0px;
+}
+
+.bottom_nav {
+	color: #AA0000;
+	margin: 50px 0px 0px 0px;	
+}
