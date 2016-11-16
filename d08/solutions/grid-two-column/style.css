@@ -1,0 +1,12 @@
+.box {
+  background-color: grey;
+  border: 1px solid black;
+  height: 100px;
+}
+
+.middle {
+  height: 400px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  border: none;
+}
